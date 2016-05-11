@@ -1,0 +1,1234 @@
+{
+	"version": "1.0",
+	"data":
+	{
+		"yokaiList":
+		[
+			{
+				"id": "#1",
+				"name-fr": "Woko",
+				"food": "Rice Balls"
+			}
+			{
+				"id": "#2",
+				"name-fr": "Pagno",
+				"food": "Rice Balls"
+			}
+			{
+				"id": "#3",
+				"name-fr": "Alfoncéo",
+				"food": "Rice Balls"
+			}
+			{
+				"id": "#4",
+				"name-fr": "Toumou",
+				"food": "Juice"
+			}
+			{
+				"id": "#5",
+				"name-fr": "Lamlam mou",
+				"food": "Juice"
+			}
+			{
+				"id": "#6",
+				"name-fr": "Samoumouraï",
+				"food": "Juice"
+			}
+			{
+				"id": "#7",
+				"name-fr": "Sumochi",
+				"food": "Rice Balls"
+			}
+			{
+				"id": "#8",
+				"name-fr": "Mochimacho",
+				"food": "Rice Balls"
+			}
+			{
+				"id": "#9",
+				"name-fr": "Heaumer",
+				"food": "Vegetables"
+			}
+			{
+				"id": "#10",
+				"name-fr": "Bushidos",
+				"food": "Vegetables"
+			}
+			{
+				"id": "#11",
+				"name-fr": "Âmiral",
+				"food": "Vegetables"
+			}
+			{
+				"id": "#12",
+				"name-fr": "Feulion",
+				"food": "Meat"
+			}
+			{
+				"id": "#13",
+				"name-fr": "Vibrilion",
+				"food": "Meat"
+			}
+			{
+				"id": "#14",
+				"name-fr": "Siro",
+				"food": "Meat"
+			}
+			{
+				"id": "#15",
+				"name-fr": "Bonneto",
+				"food": "Seafood"
+			}
+			{
+				"id": "#16",
+				"name-fr": "Sabri",
+				"food": "Seafood"
+			}
+			{
+				"id": "#17",
+				"name-fr": "Padelou",
+				"food": "Seafood"
+			}
+			{
+				"id": "#18",
+				"name-fr": "???",
+				"food": "Seafood"
+			}
+			{
+				"id": "#19",
+				"name-fr": "Benkei",
+				"food": "Chinese Food"
+			}
+			{
+				"id": "#20",
+				"name-fr": "B3-NK1",
+				"food": "Chinese Food"
+			}
+			{
+				"id": "#21",
+				"name-fr": "Sushiyama",
+				"food": "Rice Balls"
+			}
+			{
+				"id": "#22",
+				"name-fr": "Kapunki",
+				"food": "Rice Balls"
+			}
+			{
+				"id": "#23",
+				"name-fr": "Scatcheur",
+				"food": "Vegetables"
+			}
+			{
+				"id": "#24",
+				"name-fr": "???",
+				"food": "Vegetables"
+			}
+			{
+				"id": "#25",
+				"name-fr": "???",
+				"food": "Vegetables"
+			}
+			{
+				"id": "#26",
+				"name-fr": "Zerberker",
+				"food": "Meat"
+			}
+			{
+				"id": "#27",
+				"name-fr": "Fouétar",
+				"food": "Meat"
+			}
+			{
+				"id": "#28",
+				"name-fr": "Morvobec",
+				"food": "Seafood"
+			}
+			{
+				"id": "#29",
+				"name-fr": "Matchou",
+				"food": "Seafood"
+			}
+			{
+				"id": "#30",
+				"name-fr": "Chaipô",
+				"food": "Cheap Sweets"
+			}
+			{
+				"id": "#31",
+				"name-fr": "Gagalurin",
+				"food": "Cheap Sweets"
+			}
+			{
+				"id": "#32",
+				"name-fr": "Papa Ress",
+				"food": "Hamburgers"
+			}
+			{
+				"id": "#33",
+				"name-fr": "Ralbouc",
+				"food": "Hamburgers"
+			}
+			{
+				"id": "#34",
+				"name-fr": "Bastata",
+				"food": "Hamburgers"
+			}
+			{
+				"id": "#35",
+				"name-fr": "Marra",
+				"food": "Hamburgers"
+			}
+			{
+				"id": "#36",
+				"name-fr": "???",
+				"food": "Hamburgers"
+			}
+			{
+				"id": "#37",
+				"name-fr": "Toutouïe",
+				"food": "Noodles"
+			}
+			{
+				"id": "#38",
+				"name-fr": "Babalance",
+				"food": "Noodles"
+			}
+			{
+				"id": "#39",
+				"name-fr": "???",
+				"food": "Noodles"
+			}
+			{
+				"id": "#40",
+				"name-fr": "Cupistol",
+				"food": "Bread"
+			}
+			{
+				"id": "#41",
+				"name-fr": "Doujouant",
+				"food": "Sweets"
+			}
+			{
+				"id": "#42",
+				"name-fr": "Nonjuan",
+				"food": "Sweets"
+			}
+			{
+				"id": "#43",
+				"name-fr": "Padrézo",
+				"food": "Rice Balls"
+			}
+			{
+				"id": "#44",
+				"name-fr": "Émettor",
+				"food": "Rice Balls"
+			}
+			{
+				"id": "#45",
+				"name-fr": "???",
+				"food": "Rice Balls"
+			}
+			{
+				"id": "#46",
+				"name-fr": "Télémir",
+				"food": "Chinese Food"
+			}
+			{
+				"id": "#47",
+				"name-fr": "Nuiroir",
+				"food": "Chinese Food"
+			}
+			{
+				"id": "#48",
+				"name-fr": "Hiblusion",
+				"food": "Chinese Food"
+			}
+			{
+				"id": "#49",
+				"name-fr": "Hibrouille",
+				"food": "Chinese Food"
+			}
+			{
+				"id": "#50",
+				"name-fr": "Hibourling",
+				"food": "Bread"
+			}
+			{
+				"id": "#51",
+				"name-fr": "Espi",
+				"food": "Vegetables"
+			}
+			{
+				"id": "#52",
+				"name-fr": "Étassilivia",
+				"food": "Vegetables"
+			}
+			{
+				"id": "#53",
+				"name-fr": "Tengu",
+				"food": "Cheap Sweets"
+			}
+			{
+				"id": "#54",
+				"name-fr": "Tengurou",
+				"food": "Cheap Sweets"
+			}
+			{
+				"id": "#55",
+				"name-fr": "Kyubi",
+				"food": "Oden"
+			}
+			{
+				"id": "#56",
+				"name-fr": "Barakabo",
+				"food": "Oden"
+			}
+			{
+				"id": "#57",
+				"name-fr": "Darabajoie",
+				"food": "Bread"
+			}
+			{
+				"id": "#58",
+				"name-fr": "Darumastar",
+				"food": "Bread"
+			}
+			{
+				"id": "#59",
+				"name-fr": "Goruma",
+				"food": "Bread"
+			}
+			{
+				"id": "#60",
+				"name-fr": "Nanpart",
+				"food": "Noodles"
+			}
+			{
+				"id": "#61",
+				"name-fr": "Passpa",
+				"food": "Noodles"
+			}
+			{
+				"id": "#62",
+				"name-fr": "Granpart",
+				"food": "Noodles"
+			}
+			{
+				"id": "#63",
+				"name-fr": "Hauber",
+				"food": "Vegetables"
+			}
+			{
+				"id": "#64",
+				"name-fr": "Pachycoul",
+				"food": "Rice Balls"
+			}
+			{
+				"id": "#65",
+				"name-fr": "Persévéfant",
+				"food": "Rice Balls"
+			}
+			{
+				"id": "#66",
+				"name-fr": "Boulapic",
+				"food": "Milk"
+			}
+			{
+				"id": "#67",
+				"name-fr": "Bouldacier",
+				"food": "Milk"
+			}
+			{
+				"id": "#68",
+				"name-fr": "Lama Laya",
+				"food": "Rice Balls"
+			}
+			{
+				"id": "#69",
+				"name-fr": "Etna Magma",
+				"food": "Rice Balls"
+			}
+			{
+				"id": "#70",
+				"name-fr": "Loubarbare",
+				"food": "Noodles"
+			}
+			{
+				"id": "#71",
+				"name-fr": "Racaïd",
+				"food": "Noodles"
+			}
+			{
+				"id": "#72",
+				"name-fr": "Frérosse",
+				"food": "Noodles"
+			}
+			{
+				"id": "#73",
+				"name-fr": "Coléroptère",
+				"food": "Vegetables"
+			}
+			{
+				"id": "#74",
+				"name-fr": "???",
+				"food": "Vegetables"
+			}
+			{
+				"id": "#75",
+				"name-fr": "???",
+				"food": "Vegetables"
+			}
+			{
+				"id": "#76",
+				"name-fr": "Castelius III",
+				"food": "Milk"
+			}
+			{
+				"id": "#77",
+				"name-fr": "Castelius II",
+				"food": "Milk"
+			}
+			{
+				"id": "#78",
+				"name-fr": "Castelius I",
+				"food": "Milk"
+			}
+			{
+				"id": "#79",
+				"name-fr": "Castelius Max",
+				"food": "Milk"
+			}
+			{
+				"id": "#80",
+				"name-fr": "Robonyan",
+				"food": "Seafood"
+			}
+			{
+				"id": "#81",
+				"name-fr": "???",
+				"food": "Seafood"
+			}
+			{
+				"id": "#82",
+				"name-fr": "Misterre",
+				"food": "Vegetables"
+			}
+			{
+				"id": "#83",
+				"name-fr": "Ressak",
+				"food": "Vegetables"
+			}
+			{
+				"id": "#84",
+				"name-fr": "Squarlett",
+				"food": "Hamburgers"
+			}
+			{
+				"id": "#85",
+				"name-fr": "Margoth",
+				"food": "Sweets"
+			}
+			{
+				"id": "#86",
+				"name-fr": "Squelèbelle",
+				"food": "Sweets"
+			}
+			{
+				"id": "#87",
+				"name-fr": "Cigalopin",
+				"food": "Juice"
+			}
+			{
+				"id": "#88",
+				"name-fr": "Cigaillard",
+				"food": "Juice"
+			}
+			{
+				"id": "#89",
+				"name-fr": "Cigazouille",
+				"food": "Juice"
+			}
+			{
+				"id": "#90",
+				"name-fr": "Chihuaglagla",
+				"food": "Noodles"
+			}
+			{
+				"id": "#91",
+				"name-fr": "Froahuahua",
+				"food": "Noodles"
+			}
+			{
+				"id": "#92",
+				"name-fr": "???",
+				"food": "Noodles"
+			}
+			{
+				"id": "#93",
+				"name-fr": "Jibanyan",
+				"food": "Seafood"
+			}
+			{
+				"id": "#94",
+				"name-fr": "Épinyan",
+				"food": "Seafood"
+			}
+			{
+				"id": "#95",
+				"name-fr": "Bandinyan",
+				"food": "Seafood"
+			}
+			{
+				"id": "#96",
+				"name-fr": "Kappacap",
+				"food": "Vegetables"
+			}
+			{
+				"id": "#97",
+				"name-fr": "Appak",
+				"food": "Vegetables"
+			}
+			{
+				"id": "#98",
+				"name-fr": "Kappaloha",
+				"food": "Vegetables"
+			}
+			{
+				"id": "#99",
+				"name-fr": "Komasan",
+				"food": "Milk"
+			}
+			{
+				"id": "#100",
+				"name-fr": "Komaous",
+				"food": "Milk"
+			}
+			{
+				"id": "#101",
+				"name-fr": "Komajiro",
+				"food": "Milk"
+			}
+			{
+				"id": "#102",
+				"name-fr": "Komistigri",
+				"food": "Milk"
+			}
+			{
+				"id": "#103",
+				"name-fr": "Baku",
+				"food": "Juice"
+			}
+			{
+				"id": "#104",
+				"name-fr": "Tapur",
+				"food": "Juice"
+			}
+			{
+				"id": "#105",
+				"name-fr": "Pitou",
+				"food": "Hamburgers"
+			}
+			{
+				"id": "#106",
+				"name-fr": "Choubidou",
+				"food": "Hamburgers"
+			}
+			{
+				"id": "#107",
+				"name-fr": "Satandre",
+				"food": "Hamburgers"
+			}
+			{
+				"id": "#108",
+				"name-fr": "Angélik",
+				"food": "Cheap Sweets"
+			}
+			{
+				"id": "#109",
+				"name-fr": "Blizzaria",
+				"food": "Bread"
+			}
+			{
+				"id": "#110",
+				"name-fr": "Damona",
+				"food": "Cheap Sweets"
+			}
+			{
+				"id": "#111",
+				"name-fr": "Noripop",
+				"food": "Noodles"
+			}
+			{
+				"id": "#112",
+				"name-fr": "Wakapoeira",
+				"food": "Noodles"
+			}
+			{
+				"id": "#113",
+				"name-fr": "Salsalga",
+				"food": "Noodles"
+			}
+			{
+				"id": "#114",
+				"name-fr": "Amoiz",
+				"food": "Noodles"
+			}
+			{
+				"id": "#115",
+				"name-fr": "Pikor",
+				"food": "Noodles"
+			}
+			{
+				"id": "#116",
+				"name-fr": "Granpapéti",
+				"food": "Rice Balls"
+			}
+			{
+				"id": "#117",
+				"name-fr": "Puissanfon",
+				"food": "Rice Balls"
+			}
+			{
+				"id": "#118",
+				"name-fr": "Grainpère",
+				"food": "Rice Balls"
+			}
+			{
+				"id": "#119",
+				"name-fr": "Nomoné",
+				"food": "Milk"
+			}
+			{
+				"id": "#120",
+				"name-fr": "Noproblemo",
+				"food": "Milk"
+			}
+			{
+				"id": "#121",
+				"name-fr": "Papiltation",
+				"food": "Juice"
+			}
+			{
+				"id": "#122",
+				"name-fr": "Papiltension",
+				"food": "Juice"
+			}
+			{
+				"id": "#123",
+				"name-fr": "Hyprapillon",
+				"food": "Juice"
+			}
+			{
+				"id": "#124",
+				"name-fr": "???",
+				"food": "Juice"
+			}
+			{
+				"id": "#125",
+				"name-fr": "Jojojoyeux",
+				"food": "Bread"
+			}
+			{
+				"id": "#126",
+				"name-fr": "Paradoxa",
+				"food": "Bread"
+			}
+			{
+				"id": "#127",
+				"name-fr": "???",
+				"food": "Bread"
+			}
+			{
+				"id": "#128",
+				"name-fr": "Ratatam",
+				"food": "Milk"
+			}
+			{
+				"id": "#129",
+				"name-fr": "Supernoël",
+				"food": "Curry"
+			}
+			{
+				"id": "#130",
+				"name-fr": "Dédé",
+				"food": "Cheap Sweets"
+			}
+			{
+				"id": "#131",
+				"name-fr": "Dédestin",
+				"food": "Cheap Sweets"
+			}
+			{
+				"id": "#132",
+				"name-fr": "Tontonnerre",
+				"food": "Meat"
+			}
+			{
+				"id": "#133",
+				"name-fr": "???",
+				"food": "Meat"
+			}
+			{
+				"id": "#134",
+				"name-fr": "Tata Aura",
+				"food": "Vegetables"
+			}
+			{
+				"id": "#135",
+				"name-fr": "???",
+				"food": "Vegetables"
+			}
+			{
+				"id": "#136",
+				"name-fr": "Egaroni",
+				"food": "Cheap Sweets"
+			}
+			{
+				"id": "#137",
+				"name-fr": "Onisoi",
+				"food": "Cheap Sweets"
+			}
+			{
+				"id": "#138",
+				"name-fr": "Tortico",
+				"food": "Cheap Sweets"
+			}
+			{
+				"id": "#139",
+				"name-fr": "Tendino",
+				"food": "Cheap Sweets"
+			}
+			{
+				"id": "#140",
+				"name-fr": "Contracto",
+				"food": "Cheap Sweets"
+			}
+			{
+				"id": "#141",
+				"name-fr": "Nihilistik",
+				"food": "Juice"
+			}
+			{
+				"id": "#142",
+				"name-fr": "Émousstik",
+				"food": "Juice"
+			}
+			{
+				"id": "#143",
+				"name-fr": "Grattoptère",
+				"food": "Juice"
+			}
+			{
+				"id": "#144",
+				"name-fr": "Marcognito",
+				"food": "Rice Balls"
+			}
+			{
+				"id": "#145",
+				"name-fr": "Ninjamévu",
+				"food": "Rice Balls"
+			}
+			{
+				"id": "#146",
+				"name-fr": "Nihilo",
+				"food": "Rice Balls"
+			}
+			{
+				"id": "#147",
+				"name-fr": "Chauvekipeut",
+				"food": "Meat"
+			}
+			{
+				"id": "#148",
+				"name-fr": "Chauv'coucou",
+				"food": "Meat"
+			}
+			{
+				"id": "#149",
+				"name-fr": "Vampiloc",
+				"food": "Meat"
+			}
+			{
+				"id": "#150",
+				"name-fr": "Suspicioni",
+				"food": "Chinese Food"
+			}
+			{
+				"id": "#151",
+				"name-fr": "Ragioni",
+				"food": "Chinese Food"
+			}
+			{
+				"id": "#152",
+				"name-fr": "Contrarioni",
+				"food": "Chinese Food"
+			}
+			{
+				"id": "#153",
+				"name-fr": "Tengubre",
+				"food": "Vegetables"
+			}
+			{
+				"id": "#154",
+				"name-fr": "Bibliotengu",
+				"food": "Vegetables"
+			}
+			{
+				"id": "#155",
+				"name-fr": "Nimpégase",
+				"food": "Vegetables"
+			}
+			{
+				"id": "#156",
+				"name-fr": "Hennimi",
+				"food": "Vegetables"
+			}
+			{
+				"id": "#157",
+				"name-fr": "Timidémon",
+				"food": "Noodles"
+			}
+			{
+				"id": "#158",
+				"name-fr": "Belzel",
+				"food": "Noodles"
+			}
+			{
+				"id": "#159",
+				"name-fr": "Dente",
+				"food": "Noodles"
+			}
+			{
+				"id": "#160",
+				"name-fr": "Vénaldo",
+				"food": "Meat"
+			}
+			{
+				"id": "#161",
+				"name-fr": "Maltesse",
+				"food": "Meat"
+			}
+			{
+				"id": "#162",
+				"name-fr": "Malmidal",
+				"food": "Bread"
+			}
+			{
+				"id": "#163",
+				"name-fr": "Écchinose",
+				"food": "Bread"
+			}
+			{
+				"id": "#164",
+				"name-fr": "Chiperpiou",
+				"food": "Hamburgers"
+			}
+			{
+				"id": "#165",
+				"name-fr": "Pioubidou",
+				"food": "Hamburgers"
+			}
+			{
+				"id": "#166",
+				"name-fr": "Flamente",
+				"food": "Bread"
+			}
+			{
+				"id": "#167",
+				"name-fr": "Volibrius",
+				"food": "Bread"
+			}
+			{
+				"id": "#168",
+				"name-fr": "Volatriste",
+				"food": "Bread"
+			}
+			{
+				"id": "#169",
+				"name-fr": "Corniot",
+				"food": "Chinese Food"
+			}
+			{
+				"id": "#170",
+				"name-fr": "Bicorniot",
+				"food": "Chinese Food"
+			}
+			{
+				"id": "#171",
+				"name-fr": "Cerbébert",
+				"food": "Chinese Food"
+			}
+			{
+				"id": "#172",
+				"name-fr": "Humidon",
+				"food": "Juice"
+			}
+			{
+				"id": "#173",
+				"name-fr": "Délujien",
+				"food": "Juice"
+			}
+			{
+				"id": "#174",
+				"name-fr": "Fryzeur",
+				"food": "Juice"
+			}
+			{
+				"id": "#175",
+				"name-fr": "Kongel",
+				"food": "Juice"
+			}
+			{
+				"id": "#176",
+				"name-fr": "Hémorhino",
+				"food": "Juice"
+			}
+			{
+				"id": "#177",
+				"name-fr": "Blablara",
+				"food": "Bread"
+			}
+			{
+				"id": "#178",
+				"name-fr": "Umilie",
+				"food": "Bread"
+			}
+			{
+				"id": "#179",
+				"name-fr": "Lulugubre",
+				"food": "Bread"
+			}
+			{
+				"id": "#180",
+				"name-fr": "Pégaz",
+				"food": "Milk"
+			}
+			{
+				"id": "#181",
+				"name-fr": "Méphito",
+				"food": "Milk"
+			}
+			{
+				"id": "#182",
+				"name-fr": "Misterbide",
+				"food": "???"
+			}
+			{
+				"id": "#183",
+				"name-fr": "Flopito",
+				"food": "???"
+			}
+			{
+				"id": "#184",
+				"name-fr": "Cenridion",
+				"food": "Milk"
+			}
+			{
+				"id": "#185",
+				"name-fr": "Jouvencia",
+				"food": "Milk"
+			}
+			{
+				"id": "#186",
+				"name-fr": "Éterna",
+				"food": "Milk"
+			}
+			{
+				"id": "#187",
+				"name-fr": "Insomnelle",
+				"food": "Cheap Sweets"
+			}
+			{
+				"id": "#188",
+				"name-fr": "Morféa",
+				"food": "Cheap Sweets"
+			}
+			{
+				"id": "#189",
+				"name-fr": "Noko",
+				"food": "Hamburgers"
+			}
+			{
+				"id": "#190",
+				"name-fr": "Nénunoko",
+				"food": "Hamburgers"
+			}
+			{
+				"id": "#191",
+				"name-fr": "Pandanoko",
+				"food": "Hamburgers"
+			}
+			{
+				"id": "#192",
+				"name-fr": "Anghihihille",
+				"food": "Meat"
+			}
+			{
+				"id": "#193",
+				"name-fr": "Méroubadour",
+				"food": "Meat"
+			}
+			{
+				"id": "#194",
+				"name-fr": "Urnaconda",
+				"food": "Meat"
+			}
+			{
+				"id": "#195",
+				"name-fr": "Murhaine",
+				"food": "Meat"
+			}
+			{
+				"id": "#196",
+				"name-fr": "Saumhonni",
+				"food": "Meat"
+			}
+			{
+				"id": "#197",
+				"name-fr": "???",
+				"food": "Meat"
+			}
+			{
+				"id": "#198",
+				"name-fr": "Dracounet",
+				"food": "Chinese Food"
+			}
+			{
+				"id": "#199",
+				"name-fr": "Sire Dragon",
+				"food": "Chinese Food"
+			}
+			{
+				"id": "#200",
+				"name-fr": "Dragô",
+				"food": "Chinese Food"
+			}
+			{
+				"id": "#201",
+				"name-fr": "???",
+				"food": "Cheap Sweets"
+			}
+			{
+				"id": "#202",
+				"name-fr": "Tourneboul",
+				"food": "Cheap Sweets"
+			}
+			{
+				"id": "#203",
+				"name-fr": "Croquin",
+				"food": "Vegetables"
+			}
+			{
+				"id": "#204",
+				"name-fr": "Inisquale",
+				"food": "Vegetables"
+			}
+			{
+				"id": "#205",
+				"name-fr": "Claquille",
+				"food": "Bread"
+			}
+			{
+				"id": "#206",
+				"name-fr": "???",
+				"food": "Bread"
+			}
+			{
+				"id": "#207",
+				"name-fr": "Jacquasseur",
+				"food": "Cheap Sweets"
+			}
+			{
+				"id": "#208",
+				"name-fr": "Bananar",
+				"food": "Cheap Sweets"
+			}
+			{
+				"id": "#209",
+				"name-fr": "Vipètesec",
+				"food": "Seafood"
+			}
+			{
+				"id": "#210",
+				"name-fr": "Vipérâle",
+				"food": "Seafood"
+			}
+			{
+				"id": "#211",
+				"name-fr": "Vipairflay",
+				"food": "Seafood"
+			}
+			{
+				"id": "#212",
+				"name-fr": "Octorgone",
+				"food": "Seafood"
+			}
+			{
+				"id": "#213",
+				"name-fr": "???",
+				"food": "Seafood"
+			}
+			{
+				"id": "#214",
+				"name-fr": "Shogunyan",
+				"food": "Seafood"
+			}
+			{
+				"id": "#215",
+				"name-fr": "Komashura",
+				"food": "Milk"
+			}
+			{
+				"id": "#216",
+				"name-fr": "Cabotin",
+				"food": "Chinese Food"
+			}
+			{
+				"id": "#217",
+				"name-fr": "Camaïeul",
+				"food": "Rice Balls"
+			}
+			{
+				"id": "#218",
+				"name-fr": "???",
+				"food": "Meat"
+			}
+			{
+				"id": "#219",
+				"name-fr": "???",
+				"food": "Seafood"
+			}
+			{
+				"id": "#220",
+				"name-fr": "???",
+				"food": "Seafood"
+			}
+			{
+				"id": "#221",
+				"name-fr": "???",
+				"food": "Seafood"
+			}
+			{
+				"id": "#222",
+				"name-fr": "???",
+				"food": "Seafood"
+			}
+			{
+				"id": "#223",
+				"name-fr": "???",
+				"food": "Seafood"
+			}
+			{
+				"id": "#Boss1",
+				"name-fr": "Triptyk",
+				"food": ""
+			}
+			{
+				"id": "#Boss2",
+				"name-fr": "Crocho",
+				"food": ""
+			}
+			{
+				"id": "#Boss3",
+				"name-fr": "Carpitaine",
+				"food": ""
+			}
+			{
+				"id": "#Boss4",
+				"name-fr": "Ombraptor",
+				"food": ""
+			}
+			{
+				"id": "#Boss5",
+				"name-fr": "Sabroclair",
+				"food": ""
+			}
+			{
+				"id": "#Boss6",
+				"name-fr": "Inamygal",
+				"food": ""
+			}
+			{
+				"id": "#Boss7",
+				"name-fr": "Dr Jobard",
+				"food": ""
+			}
+			{
+				"id": "#Boss8",
+				"name-fr": "McKraken",
+				"food": ""
+			}
+			{
+				"id": "#Boss9",
+				"name-fr": "McKraken",
+				"food": ""
+			}
+			{
+				"id": "#Boss10",
+				"name-fr": "Volteface",
+				"food": ""
+			}
+			{
+				"id": "#Boss11",
+				"name-fr": "Didgeai",
+				"food": ""
+			}
+			{
+				"id": "#Boss12",
+				"name-fr": "Hydreux",
+				"food": ""
+			}
+			{
+				"id": "#Boss13",
+				"name-fr": "Porcinator",
+				"food": ""
+			}
+			{
+				"id": "#Boss14",
+				"name-fr": "Styx VI",
+				"food": ""
+			}
+			{
+				"id": "#Boss15",
+				"name-fr": "Nébulor",
+				"food": ""
+			}
+			{
+				"id": "#Boss16",
+				"name-fr": "Pr Létripe",
+				"food": ""
+			}
+			{
+				"id": "#Boss17",
+				"name-fr": "Hagacurée",
+				"food": ""
+			}
+			{
+				"id": "#Boss18",
+				"name-fr": "Rancornet",
+				"food": ""
+			}
+			{
+				"id": "#Boss19",
+				"name-fr": "Potofeu",
+				"food": ""
+			}
+			{
+				"id": "#Boss20",
+				"name-fr": "Gargaros",
+				"food": ""
+			}
+			{
+				"id": "#Boss21",
+				"name-fr": "Ogralos",
+				"food": ""
+			}
+			{
+				"id": "#Boss22",
+				"name-fr": "???",
+				"food": ""
+			}
+		]
+	}
+}
