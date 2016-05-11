@@ -1,15 +1,19 @@
 ﻿using UnityEngine;
 using System.Collections;
+using UnityEngine.UI;
 
 public class YokaiScrollList : UIList<ScrollCellTest>
 {
 	public YokaiJSONLoader Loader;
+
+	private PanelManager m_PanelManager;
 
 	private bool Initialized;
 
 	// Use this for initialization
 	void Start ()
 	{
+		m_PanelManager = GetComponent<PanelManager>();
 		Initialized = false;
 		if (Loader != null)
 			Loader.Load();
@@ -47,7 +51,7 @@ public class YokaiScrollList : UIList<ScrollCellTest>
 
 	public override void UpdateCell(int index, ScrollCellTest cell)
 	{
-		cell.cellLabel.text = Loader.YokaiList[index]["name-fr"];
+		cell.Init(Loader.YokaiList[index], m_PanelManager);
 	}
 
 	#endregion
