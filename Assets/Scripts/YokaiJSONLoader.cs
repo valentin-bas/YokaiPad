@@ -22,7 +22,11 @@ public class YokaiJSONLoader : MonoBehaviour
 
 	private IEnumerator LoadJSONFile()
 	{
-		WWW data = new WWW("file:///" + Application.streamingAssetsPath + "/" + filename);
+		WWW data;
+		if (Application.platform == RuntimePlatform.Android)
+			data = new WWW("jar:file://" + Application.dataPath + "!/assets/" + filename);
+		else
+			data = new WWW("file:///" + Application.streamingAssetsPath + "/" + filename);
 		yield return data;
 
 		if (string.IsNullOrEmpty(data.error))
