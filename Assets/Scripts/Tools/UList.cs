@@ -6,7 +6,7 @@ using UnityEngine.UI;
 
 public abstract class UIList<TCell> : MonoBehaviour where TCell : Component
 {
-	public GridLayoutGroup grid;
+	public VerticalLayoutGroup grid;
 	
 	protected List<TCell> cells = new List<TCell>(10);
 	private List<TCell> pooledCells = new List<TCell>(10);

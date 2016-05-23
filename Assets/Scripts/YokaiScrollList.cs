@@ -1,6 +1,15 @@
 ﻿using UnityEngine;
 using System.Collections;
 using UnityEngine.UI;
+using System;
+
+public static class StringExtensions
+{
+    public static bool Contains(this string source, string toCheck, StringComparison comp)
+    {
+        return source.IndexOf(toCheck, comp) >= 0;
+    }
+}
 
 public class YokaiScrollList : UIList<ScrollCellTest>
 {
@@ -10,8 +19,14 @@ public class YokaiScrollList : UIList<ScrollCellTest>
 
 	private bool Initialized;
 
-	// Use this for initialization
-	void Start ()
+    public Text nameYokai;
+    public ScrollRect scrollRect;
+    public RectTransform contentPanel;
+
+    public int offsetSearch;
+
+    // Use this for initialization
+    void Start ()
 	{
 		m_PanelManager = GetComponent<PanelManager>();
 		Initialized = false;
@@ -54,5 +69,33 @@ public class YokaiScrollList : UIList<ScrollCellTest>
 		cell.Init(Loader.YokaiList[index], m_PanelManager);
 	}
 
-	#endregion
+    public void Search()
+    {
+        string name = nameYokai.text;
+        Debug.Log(name);
+        RectTransform target;
+        for (int i = 0; i < Loader.YokaiList.Count; i++)
+        {
+            string nameFullYokai = Loader.YokaiList[i]["name-fr"];
+            if (nameFullYokai.Contains(name, StringComparison.OrdinalIgnoreCase))
+            {
+                Debug.Log(nameFullYokai);
+                target = cells[i].gameObject.GetComponent<RectTransform>();
+                SnapTo(target);
+                break;
+            }
+        }
+    }
+
+    public void SnapTo(RectTransform target)
+    {
+        Canvas.ForceUpdateCanvases();
+        contentPanel.anchoredPosition = new Vector2(contentPanel.anchoredPosition.x,
+            scrollRect.transform.InverseTransformPoint(contentPanel.position).y
+            - scrollRect.transform.InverseTransformPoint(target.position).y);
+
+        contentPanel.anchoredPosition = new Vector2(contentPanel.anchoredPosition.x, contentPanel.anchoredPosition.y + offsetSearch);
+    }
+
+    #endregion
 }
