@@ -19,7 +19,7 @@ public class ScrollCellTest : MonoBehaviour
 	{
 		m_YokaiInfos = yokaiInfos;
 		m_PanelManager = panelManager;
-       // StartCoroutine(LoadYokaiImg(m_YokaiInfos["img"]));
+        StartCoroutine(LoadYokaiImg(m_YokaiInfos["img"]));
         cellLabel.text = m_YokaiInfos["name-fr"];
         foodLabel.text = m_YokaiInfos["food"];
     }
