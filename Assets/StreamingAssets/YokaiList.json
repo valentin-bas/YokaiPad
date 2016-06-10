@@ -1,4 +1,4 @@
-{
+ï»¿{
 	"version": "1.0",
 	"data":
 	{
@@ -19,7 +19,7 @@
 			{
 				"id": "#3",
 				"img": "3.png",
-				"name-fr": "Alfoncéo",
+				"name-fr": "Alfonceo",
 				"food": "Rice Balls"
 			}
 			{
@@ -37,7 +37,7 @@
 			{
 				"id": "#6",
 				"img": "6.png",
-				"name-fr": "Samoumouraï",
+				"name-fr": "Samoumourai",
 				"food": "Juice"
 			}
 			{
@@ -67,7 +67,7 @@
 			{
 				"id": "#11",
 				"img": "11.png",
-				"name-fr": "Âmiral",
+				"name-fr": "Amiral",
 				"food": "Vegetables"
 			}
 			{
@@ -109,7 +109,7 @@
 			{
 				"id": "#18",
 				"img": "18.png",
-				"name-fr": "???",
+				"name-fr": "Orox",
 				"food": "Seafood"
 			}
 			{
@@ -145,13 +145,13 @@
 			{
 				"id": "#24",
 				"img": "24.png",
-				"name-fr": "???",
+				"name-fr": "Scarmouche",
 				"food": "Vegetables"
 			}
 			{
 				"id": "#25",
 				"img": "25.png",
-				"name-fr": "???",
+				"name-fr": "Scarnage",
 				"food": "Vegetables"
 			}
 			{
@@ -163,7 +163,7 @@
 			{
 				"id": "#27",
 				"img": "27.png",
-				"name-fr": "Fouétar",
+				"name-fr": "Fouetar",
 				"food": "Meat"
 			}
 			{
@@ -181,7 +181,7 @@
 			{
 				"id": "#30",
 				"img": "30.png",
-				"name-fr": "Chaipô",
+				"name-fr": "Chaipo",
 				"food": "Cheap Sweets"
 			}
 			{
@@ -217,13 +217,13 @@
 			{
 				"id": "#36",
 				"img": "36.png",
-				"name-fr": "???",
+				"name-fr": "Violette",
 				"food": "Hamburgers"
 			}
 			{
 				"id": "#37",
 				"img": "37.png",
-				"name-fr": "Toutouïe",
+				"name-fr": "Toutouie",
 				"food": "Noodles"
 			}
 			{
@@ -235,7 +235,7 @@
 			{
 				"id": "#39",
 				"img": "39.png",
-				"name-fr": "???",
+				"name-fr": "Memetal",
 				"food": "Noodles"
 			}
 			{
@@ -259,25 +259,25 @@
 			{
 				"id": "#43",
 				"img": "43.png",
-				"name-fr": "Padrézo",
+				"name-fr": "Padrezo",
 				"food": "Rice Balls"
 			}
 			{
 				"id": "#44",
 				"img": "44.png",
-				"name-fr": "Émettor",
+				"name-fr": "Emettor",
 				"food": "Rice Balls"
 			}
 			{
 				"id": "#45",
 				"img": "45.png",
-				"name-fr": "???",
+				"name-fr": "Dynamo",
 				"food": "Rice Balls"
 			}
 			{
 				"id": "#46",
 				"img": "46.png",
-				"name-fr": "Télémir",
+				"name-fr": "Telemir",
 				"food": "Chinese Food"
 			}
 			{
@@ -313,7 +313,7 @@
 			{
 				"id": "#52",
 				"img": "52.png",
-				"name-fr": "Étassilivia",
+				"name-fr": "Etassilivia",
 				"food": "Vegetables"
 			}
 			{
@@ -391,7 +391,7 @@
 			{
 				"id": "#65",
 				"img": "65.png",
-				"name-fr": "Persévéfant",
+				"name-fr": "Persevefant",
 				"food": "Rice Balls"
 			}
 			{
@@ -427,31 +427,31 @@
 			{
 				"id": "#71",
 				"img": "71.png",
-				"name-fr": "Racaïd",
+				"name-fr": "Racaid",
 				"food": "Noodles"
 			}
 			{
 				"id": "#72",
 				"img": "72.png",
-				"name-fr": "Frérosse",
+				"name-fr": "Frerosse",
 				"food": "Noodles"
 			}
 			{
 				"id": "#73",
 				"img": "73.png",
-				"name-fr": "Coléroptère",
+				"name-fr": "Coleroptere",
 				"food": "Vegetables"
 			}
 			{
 				"id": "#74",
 				"img": "74.png",
-				"name-fr": "???",
+				"name-fr": "Rhinolimit",
 				"food": "Vegetables"
 			}
 			{
 				"id": "#75",
 				"img": "75.png",
-				"name-fr": "???",
+				"name-fr": "Corniaque",
 				"food": "Vegetables"
 			}
 			{
@@ -487,7 +487,7 @@
 			{
 				"id": "#81",
 				"img": "81.png",
-				"name-fr": "???",
+				"name-fr": "Oronyan",
 				"food": "Seafood"
 			}
 			{
@@ -517,7 +517,7 @@
 			{
 				"id": "#86",
 				"img": "86.png",
-				"name-fr": "Squelèbelle",
+				"name-fr": "Squelebelle",
 				"food": "Sweets"
 			}
 			{
@@ -553,7 +553,7 @@
 			{
 				"id": "#92",
 				"img": "92.png",
-				"name-fr": "???",
+				"name-fr": "Cho-Cho",
 				"food": "Noodles"
 			}
 			{
@@ -565,7 +565,7 @@
 			{
 				"id": "#94",
 				"img": "94.png",
-				"name-fr": "Épinyan",
+				"name-fr": "Epinyan",
 				"food": "Seafood"
 			}
 			{
@@ -649,7 +649,7 @@
 			{
 				"id": "#108",
 				"img": "108.png",
-				"name-fr": "Angélik",
+				"name-fr": "Angelik",
 				"food": "Cheap Sweets"
 			}
 			{
@@ -697,7 +697,7 @@
 			{
 				"id": "#116",
 				"img": "116.png",
-				"name-fr": "Granpapéti",
+				"name-fr": "Granpapeti",
 				"food": "Rice Balls"
 			}
 			{
@@ -709,13 +709,13 @@
 			{
 				"id": "#118",
 				"img": "118.png",
-				"name-fr": "Grainpère",
+				"name-fr": "Grainpere",
 				"food": "Rice Balls"
 			}
 			{
 				"id": "#119",
 				"img": "119.png",
-				"name-fr": "Nomoné",
+				"name-fr": "Nomone",
 				"food": "Milk"
 			}
 			{
@@ -745,7 +745,7 @@
 			{
 				"id": "#124",
 				"img": "124.png",
-				"name-fr": "???",
+				"name-fr": "Vitapillon",
 				"food": "Juice"
 			}
 			{
@@ -763,7 +763,7 @@
 			{
 				"id": "#127",
 				"img": "127.png",
-				"name-fr": "???",
+				"name-fr": "Potaumorose",
 				"food": "Bread"
 			}
 			{
@@ -775,19 +775,19 @@
 			{
 				"id": "#129",
 				"img": "129.png",
-				"name-fr": "Supernoël",
+				"name-fr": "Supernoel",
 				"food": "Curry"
 			}
 			{
 				"id": "#130",
 				"img": "130.png",
-				"name-fr": "Dédé",
+				"name-fr": "Dede",
 				"food": "Cheap Sweets"
 			}
 			{
 				"id": "#131",
 				"img": "131.png",
-				"name-fr": "Dédestin",
+				"name-fr": "Dedestin",
 				"food": "Cheap Sweets"
 			}
 			{
@@ -799,7 +799,7 @@
 			{
 				"id": "#133",
 				"img": "133.png",
-				"name-fr": "???",
+				"name-fr": "Omnitonton",
 				"food": "Meat"
 			}
 			{
@@ -811,7 +811,7 @@
 			{
 				"id": "#135",
 				"img": "135.png",
-				"name-fr": "???",
+				"name-fr": "Tata calin",
 				"food": "Vegetables"
 			}
 			{
@@ -853,13 +853,13 @@
 			{
 				"id": "#142",
 				"img": "142.png",
-				"name-fr": "Émousstik",
+				"name-fr": "Emousstik",
 				"food": "Juice"
 			}
 			{
 				"id": "#143",
 				"img": "143.png",
-				"name-fr": "Grattoptère",
+				"name-fr": "Grattoptere",
 				"food": "Juice"
 			}
 			{
@@ -871,7 +871,7 @@
 			{
 				"id": "#145",
 				"img": "145.png",
-				"name-fr": "Ninjamévu",
+				"name-fr": "Ninjamevu",
 				"food": "Rice Balls"
 			}
 			{
@@ -931,7 +931,7 @@
 			{
 				"id": "#155",
 				"img": "155.png",
-				"name-fr": "Nimpégase",
+				"name-fr": "Nimpegase",
 				"food": "Vegetables"
 			}
 			{
@@ -943,7 +943,7 @@
 			{
 				"id": "#157",
 				"img": "157.png",
-				"name-fr": "Timidémon",
+				"name-fr": "Timidemon",
 				"food": "Noodles"
 			}
 			{
@@ -961,7 +961,7 @@
 			{
 				"id": "#160",
 				"img": "160.png",
-				"name-fr": "Vénaldo",
+				"name-fr": "Venaldo",
 				"food": "Meat"
 			}
 			{
@@ -979,7 +979,7 @@
 			{
 				"id": "#163",
 				"img": "163.png",
-				"name-fr": "Écchinose",
+				"name-fr": "Ecchinose",
 				"food": "Bread"
 			}
 			{
@@ -1027,7 +1027,7 @@
 			{
 				"id": "#171",
 				"img": "171.png",
-				"name-fr": "Cerbébert",
+				"name-fr": "Cerbebert",
 				"food": "Chinese Food"
 			}
 			{
@@ -1039,7 +1039,7 @@
 			{
 				"id": "#173",
 				"img": "173.png",
-				"name-fr": "Délujien",
+				"name-fr": "Delujien",
 				"food": "Juice"
 			}
 			{
@@ -1057,7 +1057,7 @@
 			{
 				"id": "#176",
 				"img": "176.png",
-				"name-fr": "Hémorhino",
+				"name-fr": "Hemorhino",
 				"food": "Juice"
 			}
 			{
@@ -1081,26 +1081,26 @@
 			{
 				"id": "#180",
 				"img": "180.png",
-				"name-fr": "Pégaz",
+				"name-fr": "Pegaz",
 				"food": "Milk"
 			}
 			{
 				"id": "#181",
 				"img": "181.png",
-				"name-fr": "Méphito",
+				"name-fr": "Mephito",
 				"food": "Milk"
 			}
 			{
 				"id": "#182",
 				"img": "182.png",
 				"name-fr": "Misterbide",
-				"food": "???"
+				"food": "Chinese food"
 			}
 			{
 				"id": "#183",
 				"img": "183.png",
 				"name-fr": "Flopito",
-				"food": "???"
+				"food": "Chinese food"
 			}
 			{
 				"id": "#184",
@@ -1117,7 +1117,7 @@
 			{
 				"id": "#186",
 				"img": "186.png",
-				"name-fr": "Éterna",
+				"name-fr": "Eterna",
 				"food": "Milk"
 			}
 			{
@@ -1129,7 +1129,7 @@
 			{
 				"id": "#188",
 				"img": "188.png",
-				"name-fr": "Morféa",
+				"name-fr": "Morfea",
 				"food": "Cheap Sweets"
 			}
 			{
@@ -1141,7 +1141,7 @@
 			{
 				"id": "#190",
 				"img": "190.png",
-				"name-fr": "Nénunoko",
+				"name-fr": "Nenunoko",
 				"food": "Hamburgers"
 			}
 			{
@@ -1159,7 +1159,7 @@
 			{
 				"id": "#193",
 				"img": "193.png",
-				"name-fr": "Méroubadour",
+				"name-fr": "Meroubadour",
 				"food": "Meat"
 			}
 			{
@@ -1183,7 +1183,7 @@
 			{
 				"id": "#197",
 				"img": "197.png",
-				"name-fr": "???",
+				"name-fr": "Vexturgeon",
 				"food": "Meat"
 			}
 			{
@@ -1201,13 +1201,13 @@
 			{
 				"id": "#200",
 				"img": "200.png",
-				"name-fr": "Dragô",
+				"name-fr": "Drago",
 				"food": "Chinese Food"
 			}
 			{
 				"id": "#201",
 				"img": "201.png",
-				"name-fr": "???",
+				"name-fr": "Bababou",
 				"food": "Cheap Sweets"
 			}
 			{
@@ -1237,7 +1237,7 @@
 			{
 				"id": "#206",
 				"img": "206.png",
-				"name-fr": "???",
+				"name-fr": "Cocpille",
 				"food": "Bread"
 			}
 			{
@@ -1255,13 +1255,13 @@
 			{
 				"id": "#209",
 				"img": "209.png",
-				"name-fr": "Vipètesec",
+				"name-fr": "Vipetesec",
 				"food": "Seafood"
 			}
 			{
 				"id": "#210",
 				"img": "210.png",
-				"name-fr": "Vipérâle",
+				"name-fr": "Viperale",
 				"food": "Seafood"
 			}
 			{
@@ -1279,7 +1279,7 @@
 			{
 				"id": "#213",
 				"img": "213.png",
-				"name-fr": "???",
+				"name-fr": "Octorgombre",
 				"food": "Seafood"
 			}
 			{
@@ -1303,43 +1303,43 @@
 			{
 				"id": "#217",
 				"img": "217.png",
-				"name-fr": "Camaïeul",
+				"name-fr": "Camaieul",
 				"food": "Rice Balls"
 			}
 			{
 				"id": "#218",
 				"img": "218.png",
-				"name-fr": "???",
+				"name-fr": "Cabotin",
 				"food": "Meat"
 			}
 			{
 				"id": "#219",
 				"img": "219.png",
-				"name-fr": "???",
+				"name-fr": "Saphinyan",
 				"food": "Seafood"
 			}
 			{
 				"id": "#220",
 				"img": "220.png",
-				"name-fr": "???",
+				"name-fr": "Emeranyan",
 				"food": "Seafood"
 			}
 			{
 				"id": "#221",
 				"img": "221.png",
-				"name-fr": "???",
+				"name-fr": "Rubinyan",
 				"food": "Seafood"
 			}
 			{
 				"id": "#222",
 				"img": "222.png",
-				"name-fr": "???",
+				"name-fr": "Topanyan",
 				"food": "Seafood"
 			}
 			{
 				"id": "#223",
 				"img": "223.png",
-				"name-fr": "???",
+				"name-fr": "Diamanyan",
 				"food": "Seafood"
 			}
 			{
